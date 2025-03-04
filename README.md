@@ -1,4 +1,8 @@
 # rafal.k.goebel.github.io
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+<!DOCTYPE html>
+<html lang="en">
+<title> | Rafal K. Goebel </title>
+
+
+
+</html>
